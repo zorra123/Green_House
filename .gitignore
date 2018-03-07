@@ -6,7 +6,21 @@
 # User-specific files
 *.suo
 *.user
+*.tlog
+*.sln
+*.vcxproj
+*.filters
+*.ino.elf
+*.ino.hex
+*.cpp.d
+*.cpp.o
+*.elf
+*.hex
+
+*.d
+*.a
 *.userosscache
+*.buildinfo
 *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
