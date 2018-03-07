@@ -12,7 +12,9 @@
 *.filters
 *.ino.elf
 *.ino.hex
+*.vsarduino.h
 *.cpp.d
+*.vmps
 *.cpp.o
 *.elf
 *.hex
